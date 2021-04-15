@@ -1,0 +1,521 @@
+prompt.             提示。输入框
+algorithm.          算法。
+session.            会议。远程连接时候。
+cluster.            簇，串         
+change.
+directory.
+click.
+I.D.E.              集成开发环境。
+CLI.                命令行。
+SDK.                
+API.                应用程序接口。
+object.             对象。
+notation.           标记。对象标记中的标记
+protocol.           协议。例，超文本传输协议。
+assignment.         变量复制。分配
+manipulate.         操作数据。
+difinition.         定义。定义数据库
+create.
+drop.
+alert.
+select.
+insert.
+update.
+delete.
+commit.
+rollback.
+grant.
+revoke.
+retrieve.           恢复。
+database.           数据库。
+store.              存储。
+Berkeley.           伯克利。
+California.         加利福尼亚。
+constrast.          对比。
+scale.              规模。
+visual hierarchy.   视觉层次。       
+typography.         样式。
+fetch.              取得。获取数据请求。
+production.         生产环境。
+development.        开发环境。
+float.              悬浮，漂浮。网页中的样式
+crash course.       速成班。
+dock.               码头。 开发者工具放在哪边。
+react.              一个框架名称。
+version.            版本。
+host.               主机。
+encryption.         数据加密。  
+trigger.            触发。
+rural.              农村。
+platform.           平台。
+intersection.       交叉点。
+compulsions.        蛊惑。
+blueprint.          蓝图。
+observation.        观察。
+flavor.             味道。
+academia.           学术。
+consultant.         顾问。
+refine.             提炼。
+esssays.            论文。
+behavior.           行为。
+aggressive.         攻击性。
+spark.              火花。
+internal.           内部。
+cue.                提示。
+associate.          联想。
+anticipation.       预期。
+pinboard.           针板。
+virtual.            虚拟。
+leverage.           杠杆。
+dazzled.            眩晕。
+variable.           变数。
+reward.             奖励。
+fridge.             冰箱。
+irrelenvnt.         无情。
+vagrant.            流浪者。云盘的名字
+distributions.      分发，发行版
+editor.             编辑器。
+keybind.            键绑定。
+infinity.           无穷。
+deploy.             部署。
+Clusters.           团体，集群。
+Mustache.           八字胡。 数据绑定的形式，双大括号。
+property.           性质。
+locale.
+bind.               捆绑。
+attribute.          属性。
+attribute bind.     属性绑定。
+dynamically.        动态。
+bound.              绑定。
+animation.          动画。
+Prerequisites.      先决条件。
+command prompt.     命令提示符。
+border.             边框
+Cascad.             层叠。
+alongside.          放在一起。
+style.              样式。
+commit.             提交。
+scale.
+sheet.              表
+greeter.            问候。
+pronounced.
+counter.            计数器。
+component.          组件。
+progressive.        发展的。渐进
+interface.          界面。
+monolithic.         庞大的。
+integrate.          整合。
+mounted.            安装上的。
+interval.           间隔。计数器功能
+delivery.
+merge.              合并。
+network.
+content.            内容。
+dictionary.
+paragraph.          段。
+document.
+object.             对象。
+asynchronous.       异步。
+model.
+DOM.                文档对象模型。
+interface.
+library.
+tutorial.
+assumptions.
+technology.
+exist.
+code.
+render.
+operation.
+Custom.
+gain.
+support.
+recognizable.
+encrypts.
+modify.
+certificate.
+authority.
+cached.
+guarante.
+fingerprint.
+hit.
+trust.
+once.
+add.
+abandon.
+port.
+Focus.
+rice.
+Tomatoes. 
+Potatoes. 
+Peppers. 
+Spinach.
+Ginger. 
+Salt. 
+Sugar. 
+plate.
+beef.
+pork.
+noodle.
+angry.
+sad.
+Scissors.
+Celery.
+Memory.
+Hard disk.
+Cilantro.
+Yogurt.
+Sunflower seeds.
+Chewing gum.
+Soap.
+Body wash.
+Shampoo.
+Cucumber.
+Matsutake eggs.
+Pork.
+Tenderloin.
+Green pepper.       青椒。
+sweet.
+Bowl. 
+Chopsticks. 
+Spoon. 
+Wok. 
+Knife. 
+Vegetables. 
+Fruits. 
+Mango.
+Pineapple.
+Banana.
+Apples.             苹果。
+Ice cream.          冰淇淋。
+Strawberries.       草莓。
+Milk tea.
+Headphones.
+Calculators.
+Connectors.
+Nail clippers.
+Rechargeable battery.
+Water cup.
+Notebook.
+Computer.
+Plug-in board.
+Tablet.
+console.
+bouncy.
+circle.
+accessible.
+rating.
+form.
+combination.
+please.
+technique.
+animation.
+reverse.
+order.
+structure.
+project.
+although.
+updated.
+fieldset.           控件组。
+insides.
+widget.
+log.
+prompt.             提示。
+star.
+ability.
+info.
+Coursera.
+course.
+linux.
+common.
+associated.
+stack.              栈。
+web.    
+development.
+journey.
+becoming.
+developer.
+scratch.
+degree.
+local.
+find.
+worry.
+scary.
+best.
+way.
+happen.
+type.
+google.
+address.            
+bar.
+protocol.           协议。
+meant.      
+similar.
+format.
+staff.
+editor.
+all over.
+choose.
+basic.
+HTML.
+CSS.
+realtime.
+query.
+terminal.
+usage.
+host.
+hostgator.
+SSH.
+Secure Shell.
+client.
+server.
+talk.
+learn.
+each other.
+get.
+post.
+put.
+delete.
+requests.
+tool.
+precompiler.
+frameworks.
+bootstrap.
+foundation.
+design.
+responsive.
+task.
+dependency.
+management. 
+build.
+footprint.
+bable.
+list.
+exclusive.
+collection.
+focused.
+wealth.
+free.
+resources.
+found.
+burst.
+prep.
+applying.
+name.
+keyframe.       
+socket.
+node.
+manage.
+react.
+utilitie.
+label.
+submit.
+text.
+checkbox.
+file.
+button.
+hidden.
+password.
+reset.
+image.
+value.
+span.
+padding.
+spcing.
+Template.           模版。
+Artistic.
+complie.
+decrement.
+enumerating.
+fetch.
+capital.
+timeline.
+description.
+website.
+topic.
+provided.
+readme.
+releases.
+packages.
+publish.
+languages.
+Phuket.
+Osaka.
+committed.
+minutes.
+ago.
+March.
+master.
+view.
+all.
+smoothly.
+lower.
+range.
+long.
+cruise.
+may.
+airports.
+oxygen.
+weather.
+based.
+action.
+course.
+conserve.
+blank.
+aborted.
+ground.
+an.
+shut.
+down.
+motor.
+objective.
+affected.
+seconds.
+step.
+after.
+decrease.
+below.
+percent.
+Percentage.
+regulator.
+normal.
+above.
+must.
+use.
+emergency.
+descent.
+more.
+these.
+occur.
+cabin.
+altitude.
+cannot.
+controlled.
+rapid.
+needed.
+announce.
+pilot.
+flying.
+will.
+advise.
+crew.
+system.
+impending.
+monitoring.
+ATC.
+and.
+area.
+altimeter.
+setting.
+passenger.
+sign.
+without.
+delay.
+lowest.
+safe.
+feet.
+whichever.
+higher.
+engine.
+start.
+switches.
+both.
+thrust.
+levers.
+reduce.
+minimum.
+anti-ice.
+speedbrake.
+flight.
+detent.
+structural.
+integrity.
+doubt.
+limit.
+speed.
+much.
+possible.
+avoid.
+high.
+maneuvering.
+loads.
+set.
+target.
+continued.
+next.
+caution.
+when.
+gross.
+weight.
+greater.
+than.
+autostow.
+knots.
+exceeds.
+airspeed.
+override.
+function.
+unless.
+approaching.
+level.
+off.
+encyclopedia.
+narrow-body.
+supplement.
+abbreviated.
+renew.
+subscription.
+expire.
+Marina Bay.         滨海湾
+bay. 海湾   
+shortcuts.
+identifier.
+immediately.
+numeric literal.
+selfteaching.
+repository.
+outline.
+lottery.
+compiler.
+options.
+index.
+script.
+Amazon.
+retard.
+close.
+synchronize.
+fork.
+explore.
+privacy.
+security.
+terms.
+embed.
+workspace.
+permanently.
+folder.
+reposition.
+dismiss.
+expanded.
+popover.
+export.
+block.
+collaboration.
+digests.
+comments.
+mentions.
+content.
+domain.
+import.
+trash.
+sub page.
+untitled.
+undefined.
+private.
+template.
+duplicate.
+registry.
+dive in.
+bundle.
+Tinder.
+nest.
+terminology.
