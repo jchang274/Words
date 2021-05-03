@@ -1,0 +1,24 @@
+chase plane.            视角控制软件。
+presets.                预设。
+start.
+simulator.
+load.
+flight.
+show on startup.
+on-board.
+outside.
+static. 
+change vehicle.         选择飞机模型。             
+search.
+generate presets.
+airport.
+data.
+supported.
+cinematics.
+views.                  视角。
+import.
+export.
+visible range.
+camera.
+motion effects.
+advanced.

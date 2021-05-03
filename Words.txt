@@ -1,3 +1,69 @@
+refactorable.       可重构。
+reusable.           可重用。
+readable.           可读。
+architecture.       架构。
+user.
+heck.               用途。
+capitalized.        大写的。
+constant.           常量。
+implicit.           隐式。
+explicit.           显式。
+clip.
+purge.              净化，清除。
+obsolete.           过时，陈旧。
+perspective.        透视。
+responsive.
+HTML elements.
+opening tag.
+slash.
+prompted.           提示。
+bracket.            括号。
+headline.           标题。
+inform.             通知。
+paragraph.          段落。
+preferred。         首选的。
+text.               文本。
+lowercase.          小写。
+close tag.
+embeedded.          嵌入。
+fetcth.             取得。
+convention.         习俗。
+as a convention.    按照惯例。
+emmet.              代码缩写自动补全。
+Placeholder Text.   占位符文本。
+placeholder.        占位符。
+linter.
+uncomment.          取消评论。
+Comments.           注释。
+deploy.             部署。
+vertical space.     垂直空间。
+internal.           内部的。
+attribute .         属性。
+unordered.          无序
+orderde.            有序，网页的有序标签就是这两个，内部的是
+Compatibility.
+assign.             分配。
+button.             按钮。
+radio button.       单选按钮。
+division.           分配。
+wrap.               包裹。
+degrade.            降级。
+pixels.             像素。
+natation.           符号。
+authored.           创作的。
+collapse.
+baseline.
+injected.
+curated.
+Scaffolding.        搭建。
+Bonus.              奖金。
+tree-shaking.       
+SEO.                搜索引擎优化
+Search Engine Optimization.
+nested.             嵌套的。
+
+Ethernet Address.   以太网地址。
+sponsor.            赞助。
 prompt.             提示。输入框
 algorithm.          算法。
 session.            会议。远程连接时候。
